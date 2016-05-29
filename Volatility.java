@@ -41,8 +41,10 @@ public class Volatility
         }
     }
     
-    FileInputStream myfile = new FileInputStream("data.txt");
-    
+    //FileInputStream myfile = new FileInputStream("data.txt");
+    цикл...
+    reader
+    волатильність
     
   }
 }
