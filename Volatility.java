@@ -52,7 +52,7 @@ public class Volatility
       //створюмо файл
       File newFile = new File("Volatility.txt");
       //формула
-     double g,a;
+     double g,a=reader[c];
      int m=50; //вікно
      for (c = 1; c <= args.length-1; c++) {
         g[c]=Math.log(a[c+1])-Math.log(a[c]); //прибутковості
